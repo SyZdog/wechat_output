@@ -1,0 +1,19 @@
+#定时时间
+alarm_timed: '7:25'
+
+#格言渠道
+# 1 : ONE●一个
+# 2 : 词霸（每日英语）
+dictum_channel: 1
+
+girlfriend_infos :
+  -
+   #女友微信昵称
+    wechat_name: '小可爱'
+   #女友所在城市
+    city_name: '长春'
+   #哪天勾搭的
+    start_date: '2017-12-15'
+   #短句的最后留言
+    sweet_words: '来自最爱你的我'
+
